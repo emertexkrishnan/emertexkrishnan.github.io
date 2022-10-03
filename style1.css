@@ -1,0 +1,44 @@
+html{
+ scroll-behavior:smooth;
+
+}
+
+body {
+
+margin: 0;
+
+padding: 0;
+
+}
+
+
+.geek{
+
+position:fixed;
+
+outline:black;
+
+width: 70px;
+
+height: 50px;
+
+transition:linear;
+
+bottom: 30px;
+
+right: 20px;
+
+
+text-decoration: none;
+
+text-align: center;
+
+line-height: 50px;
+
+ color:#757575;
+
+font-size: 22px;
+
+
+}
+
